@@ -1,5 +1,5 @@
-# Sleeping-Barber-Problem
-Sleeping Barber Problem proposed by Dijkstra in 1965 coded in C.
+# Sleeping-Barber-Problem-Plus
+Sleeping Barber Problem proposed by Dijkstra in 1965 coded in C and taking into account the order of arrival of the clients.
 
 # Problem statement
 Imagine a hypothetical barbershop with one barber, one barber chair, and a waiting room with n chairs (n may be 0) for waiting customers. The following rules apply:
